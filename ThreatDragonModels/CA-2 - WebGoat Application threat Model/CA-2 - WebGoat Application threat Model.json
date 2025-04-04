@@ -1,0 +1,16 @@
+{
+  "version": "2.4.1",
+  "summary": {
+    "title": "CA-2 - WebGoat Application threat Model",
+    "owner": "Edwin Shabu Chakkalakkal",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 0,
+    "reviewer": "Prof. Tejas Bhatt",
+    "threatTop": 0
+  }
+}
